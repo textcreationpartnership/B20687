@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of a letter sent from the Lords Justices, and the rest of the Privie Councell in Ireland, concerning His Majesties resolution to go into that His Kingdom..</title>
+            <author>Ireland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20687</idno><idno type="EEBO-CITATION">99888548</idno>
+  <idno type="VID">194178</idno>
+  <idno type="EEBO-PROQUEST">2240901970</idno>
+  
+            <idno type="STC">Wing C6151</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.13[374]</idno>
+            <idno type="STC">ESTC R230895</idno>
+            <idno type="PROQUEST">ocm99888548</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888548e"/>
+            <note>(EEBO-TCP ; phase 2, no. B20687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194178)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C29:2[375])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of a letter sent from the Lords Justices, and the rest of the Privie Councell in Ireland, concerning His Majesties resolution to go into that His Kingdom..</title>
+                  <author>Ireland. Privy Council.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, Printer the Kings Most Excellent Majestie: And by the Assignes of John Bill.,</publisher>
+                  <pubPlace>Imprinted at York:</pubPlace>
+                  <date>1642..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end:  From your Maiesties Castle of Dublin, 23. April. 1642.</note>
+                  <note>Signed at end: Your Maiesties most loyall and most faithful subjects and servants, Subscribed by Sir William Parsons, Sir Iohn Borlase, Lord Justices of Ireland [and 11 others].</note>
+                  <note>Initial; Steele notation: Majesties  dom  the.</note>
+                  <note>Acknowledging letter of 13 April, and copy of message to Parliament stating that the king will come to Ireland.--Steele.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Broadsides --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194178:1"/>
+            <head>❧ A Copie of a Letter sent from the Lords Justices, and the rest of the Privie Councell in Ireland, concerning His Majesties Resolution to go into that His Kingdom.</head>
+            <opener>
+               <salute>May it please your most Excellent Majesty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y your Majesties gracious Letters of the thirteenth of this moneth, and a Copy of your Majesties Message sent lately to your Parliament in your Kingdom of <hi>England</hi> (both which came to the hands of us, your Justices, on the eighteenth of this moneth) we observe, That your Majestie (out of a just sense of the great miseries and afflictions of your distressed Subjects in this your King<g ref="char:EOLhyphen"/>dom of <hi>Ireland,</hi> occasioned by the inhumane cruelties of the Rebels here, and out of your tender and gracious care of your good Subjects on this side) hath firmly resolved (by the assistance of Almighty God) with all possible speed to make a journey hither in your own Royall Person, for the full and finall suppressing of this Rebellion.</p>
+            <p>Those Letters and Messages we, your Majesties Justices, then immediately communicated with the Councell, as we alwayes do all matters of importance concerning your Majesties Services, and caused the Copy sent us of your Message to your Parliament in <hi>England</hi> to be printed here, so to make known here your Majesties gracious purpose, as you commanded us.</p>
+            <p>And we all joyntly do humbly beseech your Majesty to give us leave to cast our selves at your Majesties feet, and (with the duty and loyalty of faithfull Subjects) most humbly and thankfully to acknowledge to your Sa<g ref="char:EOLhyphen"/>cred Majestie, as well your continued Grace and Goodnesse upon all occasions expressed to this your Kingdom, and all your Subiects therein, and amongst them, even those wretched Rebels themselves, heretofore when they stood in the condition of good Subjects, though they want the gratitude to be sensible of it; as particularly this high addition of your Majesties gracious favour to us, in not sparing the pains or hazard, even of your own Royall Person, for the suppressing of this hiddeous Rebellion, and punishment of these ungratefull and trea<g ref="char:EOLhyphen"/>cherous Rebels, who are thus unnaturally risen in Arms against your Maiestie, expressed such unparalleled hatred and detestation against your Government and Nation, spilt, unprovoked, the blood of so many thousands of your faithfull and innocent Subiects, destroyed the estates of all the Brittish and Protestants in the Kingdom, and (which is above all) as appears by severall Examinations, and many other concurring circumstances here, notwithstanding all their false and feigned pretences, to disguise their wicked and traiterous Purposes, aimed finally at no lesse (which we tremble to write, and cannot think, without horrour and astonishment at their impiety) then even to deprive you of your Royall Crown and Dignity, and to place over them some of them<g ref="char:EOLhyphen"/>selves, or some foreign Prince, and so altogether to shake off the English Government.</p>
+            <p>Wherefore, we cannot but rejoyce (even in the midst of our present Calamities) to hear your Maiesties Prince<g ref="char:EOLhyphen"/>ly Purpose, to take iust Vengeance on them, for vindicating your Honour, revenging the blood and destruction of so many of your faithfull Subjects, and securing the future safety of your Crowns and Kingdoms.</p>
+            <p>And as we do thus joyfully apprehend the happinesse we are to enioy by those your Maiesties Royall Pur<g ref="char:EOLhyphen"/>poses, so we hold it agreeable with the Duty of us, your loyall Subiects and faithfull Servants, whom you have advanced to the honour to serve you as Councellors to You in this your Kingdom, humbly to represent to your Maiestie, upon this occasion, the present state of your Affairs here, and the Condition wherein this Kingdom stands, which we have done by our Letters now sent to Master Secretary <hi>Nicholas,</hi> to be made known to your Maiestie, that so your Maiestie understanding them, may on that side provide for supplying our Defects here, and rendring Safety to your own Royall Person, against these bloody Rebels, as your Maiestie, in your excellent Judgement, shall think fit, whereby You may (to the comfort of your good Subiects, and terrour of your Enemies) appear in this Kingdom in that Maiestie which is sutable to the Greatnesse and Wisdom of so mighty a King as God hath appointed You, whom we pray God to blesse and prosper with length of dayes, and a happy and blessed Government over this, and all other your Kingdoms and Dominions, to the Glory of God, the Honour of your Maiestie, and the Joy and Comfort of all your Subiects, And amongst them of us</p>
+            <closer>
+               <dateline>From Your Maiesties Castle of Dublin, <date>23. April. 1642.</date>
+               </dateline>
+               <signed>Your Maiesties most loyall and most faithfull Subiects and Servants, Subscribed by Sir <hi>William Parsons,</hi> Sir <hi>Iohn Borlase,</hi> Lords Justices of <hi>Ireland.</hi> Earle of <hi>Ormond</hi> and <hi>Ossory,</hi> Earle of <hi>Rostomon,</hi> Lord <hi>Lambarte,</hi> Lord <hi>Ro. Digby,</hi> Sir <hi>Adam Loftus,</hi> Sir <hi>Thomas Rotherham,</hi> Sir <hi>Ia. Ware,</hi> Sir <hi>I. Temple,</hi> Sir <hi>Francis Willoughby,</hi> Sir <hi>Robert Meredeth,</hi> Sir <hi>G. Wentworth.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at <hi>York</hi> by <hi>Robert Barker,</hi> Printer the Kings most Excellent Majestie: And by the Assignes of <hi>John Bill.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
